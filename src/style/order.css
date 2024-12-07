@@ -1,0 +1,52 @@
+.orderCpntainer{
+    background-image: url('../images/pngtree-birthday-cake-image_2121166.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 500px; 
+    padding: 80px;
+    /* margin: 1%; */
+}
+.card-img, .card-img-bottom, .card-img-top {
+    width: 100%;
+    height: 310px;
+}
+
+.card{
+    box-shadow: 22px 18px 80px #9b9797;
+    margin: 10px;
+}
+.cardConatiner{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    justify-items: center;
+    /* box-shadow: 12px 8px 80px #9c9a9a; */
+    padding: 50px;
+    border-radius: 10px;
+
+}
+
+.GiftImgContainer{
+    display: flex;
+    justify-content: center;
+    margin: 5px;
+}
+
+.GiftImg{
+    width: 100%;
+}
+
+@media only screen and (max-width: 490px) {
+.cardConatiner{
+    grid-template-columns: repeat(1, 1fr);
+    padding: 20px;
+    /* box-shadow: 1px 1px 10px #9c9a9a; */
+
+
+}
+.GiftImg{
+    /* width: 50px !important; */
+}
+}
