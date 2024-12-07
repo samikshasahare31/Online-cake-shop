@@ -10,7 +10,7 @@
   <header class="banner">
     <h1>🍰 Cake Carvers - Online Cake Shop</h1>
     <p>Discover and order the most delicious cakes for your special moments!</p>
-    <a href="https://samikshasahare31.github.io/OnlineCakeShop/" class="btn btn-demo">Live Demo</a>
+    <a href="https://samikshasahare31.github.io/Online-cake-shop/" class="btn btn-demo">Live Demo</a>
   </header>
 
   <section class="features">
@@ -26,7 +26,7 @@
 
   <section class="preview">
     <h2>📸 Preview</h2>
-    <p><a href="https://samikshasahare31.github.io/OnlineCakeShop/">Live Demo</a></p>
+    <p><a href="https://samikshasahare31.github.io/Online-cake-shop/">Live Demo</a></p>
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTdoeW1pNWptM29mYTgxaGV6ODFrdHI1MThkenFjNnU2eDljdngybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c4ELil7vHpZfy/giphy.webp" alt="Cake Carvers Preview">
   </section>
 
