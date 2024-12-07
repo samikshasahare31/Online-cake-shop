@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/Online-cake-shop/static/css/main.a874e1d1.css",
+    "main.js": "/Online-cake-shop/static/js/main.aab96db6.js",
+    "static/js/453.108d6e67.chunk.js": "/Online-cake-shop/static/js/453.108d6e67.chunk.js",
+    "static/media/rasgulla.jpeg": "/Online-cake-shop/static/media/rasgulla.b6af5e35bae65825391a.jpeg",
+    "static/media/flowerCaker.jpeg": "/Online-cake-shop/static/media/flowerCaker.207e41735bb566f8a1ee.jpeg",
+    "static/media/pngtree-birthday-cake-image_2121166.jpg": "/Online-cake-shop/static/media/pngtree-birthday-cake-image_2121166.356baf12c7dc4a731056.jpg",
+    "static/media/newcake.avif": "/Online-cake-shop/static/media/newcake.ae06814025af08b51d86.avif",
+    "static/media/DSC_5885.avif": "/Online-cake-shop/static/media/DSC_5885.f26a7f1c961021867333.avif",
+    "static/media/pink-background-with-cake-cupcakes-it_1064589-182497.avif": "/Online-cake-shop/static/media/pink-background-with-cake-cupcakes-it_1064589-182497.614e64382ea885133214.avif",
+    "static/media/birthday-gifts.avif": "/Online-cake-shop/static/media/birthday-gifts.bcc595542dcb2d438b77.avif",
+    "static/media/chocolate-cake-landingpage-fa-desktop.avif": "/Online-cake-shop/static/media/chocolate-cake-landingpage-fa-desktop.9e152312a1f131674c00.avif",
+    "static/media/birthday-landingpage-fa-desktop.avif": "/Online-cake-shop/static/media/birthday-landingpage-fa-desktop.331a72db0e4cffb1fe3c.avif",
+    "static/media/mini-cake-landingpage-fa-desktop.avif": "/Online-cake-shop/static/media/mini-cake-landingpage-fa-desktop.3bc84a4224b00f7e721c.avif",
+    "static/media/birthday_6.avif": "/Online-cake-shop/static/media/birthday_6.7263fd0af8bcf3738920.avif",
+    "static/media/anniversary_7.avif": "/Online-cake-shop/static/media/anniversary_7.79821cf368e2f5573cca.avif",
+    "static/media/designer_cake_8.avif": "/Online-cake-shop/static/media/designer_cake_8.00a66d9c77623290030d.avif",
+    "static/media/birthday_cake_1.avif": "/Online-cake-shop/static/media/birthday_cake_1.71b2412bfa6c23713506.avif",
+    "static/media/anniversary_cake_3.avif": "/Online-cake-shop/static/media/anniversary_cake_3.d6b15360c3a46f7d0f05.avif",
+    "static/media/photo_cake_12.avif": "/Online-cake-shop/static/media/photo_cake_12.c23e9620828df352b47e.avif",
+    "static/media/berry-bliss-red-velvet-cake-9797260ca-E_0.avif": "/Online-cake-shop/static/media/berry-bliss-red-velvet-cake-9797260ca-E_0.1f4e4197702ba80a6db0.avif",
+    "static/media/gift_for_him_0.avif": "/Online-cake-shop/static/media/gift_for_him_0.0e85cb3fa5552a51133b.avif",
+    "static/media/regular_cake_1-replaced-womens-day_0.avif": "/Online-cake-shop/static/media/regular_cake_1-replaced-womens-day_0.67d8b9f8534527e1d622.avif",
+    "static/media/bento-cake_4.avif": "/Online-cake-shop/static/media/bento-cake_4.9ec6ae9b9877620dec97.avif",
+    "static/media/DSC_1964_0.avif": "/Online-cake-shop/static/media/DSC_1964_0.c44418281ac5a99a7f1c.avif",
+    "static/media/DSC_4100.avif": "/Online-cake-shop/static/media/DSC_4100.2b074e9ad16d50b35535.avif",
+    "static/media/fruit-cake-cake0012-AA.avif": "/Online-cake-shop/static/media/fruit-cake-cake0012-AA.1aea8bd535be0292d7ff.avif",
+    "static/media/happy-birthday-vanilla-cake-9794330ca-AA.avif": "/Online-cake-shop/static/media/happy-birthday-vanilla-cake-9794330ca-AA.09d2aac8c1b584b700f5.avif",
+    "static/media/flavorful-rose-adorned-cake-9807880ca-A_1.avif": "/Online-cake-shop/static/media/flavorful-rose-adorned-cake-9807880ca-A_1.b92a5b8b7624ebdc635a.avif",
+    "static/media/DSC_4592.avif": "/Online-cake-shop/static/media/DSC_4592.6b94dbfda64265a7fb56.avif",
+    "index.html": "/Online-cake-shop/index.html",
+    "main.a874e1d1.css.map": "/Online-cake-shop/static/css/main.a874e1d1.css.map",
+    "main.aab96db6.js.map": "/Online-cake-shop/static/js/main.aab96db6.js.map",
+    "453.108d6e67.chunk.js.map": "/Online-cake-shop/static/js/453.108d6e67.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a874e1d1.css",
+    "static/js/main.aab96db6.js"
+  ]
+}
